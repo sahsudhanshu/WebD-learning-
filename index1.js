@@ -38,3 +38,6 @@ console.table([accountId, accountEmail, accountPassword, accountCity, accountSta
 // symbol => uniqueness
 
 // object 
+
+console.log(typeof null);
+console.log(typeof undefined);
